@@ -99,5 +99,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ipavanraja-r&show_icons=true&theme=dark&hide_title=true" alt="Pavan's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipavanraja-r&langs_count=5&theme=dark" alt="Pavan's Most Used Languages" />
 </p>
