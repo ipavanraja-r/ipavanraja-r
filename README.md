@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Raja</h1>
-<h3 align="center">A Cybersecurity and hardware hacking specialist with a strong background in embedded system security, focused on WiFi, USB, and microcontroller-based hacking projects. My work aims to develop and test innovative methods for hardware security and device exploitation.</h3>
+<h3 align="left">A Cybersecurity and hardware hacking specialist with a strong background in embedded system security, focused on WiFi, USB, and microcontroller-based hacking projects. My work aims to develop and test innovative methods for hardware security and device exploitation.</h3>
 
-<h3 align="center">Experienced in Android app development, full stack web development, and digital marketing. Passionate about delivering high-performance digital solutions that meet client needs across platforms and industries. Skilled in both front-end and back-end technologies, and dedicated to creating engaging, user-friendly experiences.</h3>
+<h3 align="left">Experienced in Android app development, full stack web development, and digital marketing. Passionate about delivering high-performance digital solutions that meet client needs across platforms and industries. Skilled in both front-end and back-end technologies, and dedicated to creating engaging, user-friendly experiences.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.instagram.com/your_instagram_handle" target="_blank">
+  <a href="https://www.instagram.com/i.pavanraja" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/pavan-raja-b7180a205" target="_blank">
