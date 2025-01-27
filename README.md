@@ -38,7 +38,7 @@
   <li><strong>🔒 Specialties</strong>: Hardware and embedded security, WiFi and USB hacking, firmware analysis, cryptography</li>
   <li><strong>📡 Focus Areas</strong>: Wireless security, IoT device hacking, microcontroller programming</li>
   <li><strong>🔍 Interests</strong>: Embedded security, hardware hacking projects, Capture the Flag (CTF) challenges, cryptography</li>
-  <li><strong>⚙️ Tools & Platforms</strong>: WiFi Ducky, DigiSpark, Bad USB, Flipper Zero, P4wnP1, Ghidra, JTAG, UART, ESP8266, ESP32, Raspberry Pi 4, Raspberry Pi Zero W, BLE</li>
+  <li><strong>⚙️ Tools & Platforms</strong>: WiFi Ducky, DigiSpark, Bad USB, Flipper Zero, P4wnP1, Ghidra, JTAG, UART, ESP8266, ESP32, Raspberry Pi 4, Raspberry Pi Zero W, BLE jammer</li>
 </ul>
 
 <hr style="border-top: 2px solid green;" />
